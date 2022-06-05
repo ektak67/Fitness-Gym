@@ -10,7 +10,7 @@ HTML , CSS
 **Features** 
 
 **1.Home Page**<br><br>
-<br>There is a basic landing page that is my Home page , you can always navigate to the signup screen from here.<br>
+There is a basic landing page that is my Home page , you can always navigate to the signup screen from here.<br><br>
 ![Sign_in](https://user-images.githubusercontent.com/82212464/172035075-6082bc73-e3b9-49f0-8b25-dd89331e999c.png)
 #
 **2.Navbar** <br><br>
