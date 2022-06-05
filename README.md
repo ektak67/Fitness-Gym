@@ -21,7 +21,7 @@ Here we can see about the gym and equipmens <br>
 #
 
 **Setting Up the Project**<br><br>
-     **Our landing page is Sign In** <br> <br>
-     ![Sign_in](https://user-images.githubusercontent.com/82212464/125115104-83134c00-e108-11eb-9dfb-b97d78971c1b.png)<br><br>
+     **Our landing page is Home Page** <br> <br>
+     br><br>
 **1. Clone the repo**<br>
-git clone https://github.com/ektak67/Webkriti-Frontend.git
+git clone [https://github.com/ektak67/Webkriti-Frontend.git](https://github.com/ektak67/Fitness-Gym/tree/master)
