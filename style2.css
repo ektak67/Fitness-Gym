@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('img/13.jpg');  
+    /* overflow: hidden;  */
+}
+
+.header{
+    font-family: 'Baloo Bhai 2', cursive;
+   margin: 0px 12px;
+   padding: 12px 12px;
+}
+
+.left{
+    position: absolute;
+    left: 32px;
+    top: 12px;
+    display: inline-block;    
+}
+
+.left img{
+    width: 90px;
+    filter: invert(100%);
+    font-size: 20px;
+}
+
+.center{
+    display: block;
+    width: 35%;
+    margin: 12px auto;
+}
+
+.right{
+    position: absolute;
+    right: 32px;
+    top: 15px;
+    display: inline-block;
+}
+
+.navbar{
+    display: inline-block;
+    font-style: bold;
+}
+
+.navbar li{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.navbar li a {
+    color: black;
+    text-decoration: none;
+    padding: 12px;
+}
+
+.navbar li a:hover ,.navbar li a.active  {
+   text-decoration: underline;
+   color: grey;
+}
+
+.btn{
+    margin: 12px 10px ;
+    padding: 4px 14px;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    border-color: gray;
+    cursor: pointer;
+}
+
+.btn a{
+    color: white;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: grey;
+}
+
+.abt {
+    /* border: 2px solid red; */
+    /* display: block; */
+    width: 900px;
+    margin: 12px auto;
+    padding: 20px 30px;
+    font-size: 20px;
+}
+
+.imgcon{
+    background: rgb(33, 33, 33);
+    width: 800px;
+    height: inherit;
+    margin: auto auto;
+
+}
+.flex-container {
+    display: flex;
+    flex: 100%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    word-wrap: break-word;
+}
+
+div img {
+    /* margin: 2px auto; */
+    width: 170px;
+    font-size: 100px;
+    transition: width .2s;
+}
+
+
+div img:hover{
+    /* transform: scale(1.5); */
+    width: 250px;
+
+}
+
+
+
+
+ 

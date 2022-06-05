@@ -1,0 +1,22 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url();
+    color: gray;
+}
+.header left{
+    border: 2px red;
+    display: inline-block;
+}
+.header center{
+    border: 2px green;
+}
+.header right{
+    position: absolute;
+    right: 32px;
+    top: 20px;
+    border: 2px yellow;
+    display: inline-block;
+
+}
